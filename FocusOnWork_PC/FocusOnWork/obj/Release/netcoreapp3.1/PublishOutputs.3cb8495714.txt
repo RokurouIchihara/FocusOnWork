@@ -1,0 +1,6 @@
+C:\application\FocusOnWork.exe
+C:\application\FocusOnWork.dll
+C:\application\FocusOnWork.deps.json
+C:\application\FocusOnWork.runtimeconfig.json
+C:\application\FocusOnWork.pdb
+C:\application\NAudio.dll
